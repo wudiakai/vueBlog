@@ -9,7 +9,6 @@ import com.xxx.common.lang.Result;
 import com.xxx.entity.Blog;
 import com.xxx.service.IBlogService;
 import com.xxx.util.ShiroUtil;
-import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authz.annotation.RequiresAuthentication;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.validation.annotation.Validated;
